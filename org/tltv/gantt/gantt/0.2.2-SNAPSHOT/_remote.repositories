@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 23 14:10:37 ICT 2014
+gantt-0.2.2-SNAPSHOT-javadoc.jar>=
+gantt-0.2.2-20140509.104805-4.jar>nexus=
+gantt-0.2.2-20140509.104805-4-sources.jar>nexus=
+gantt-0.2.2-20140509.104805-4.pom>nexus=
+gantt-0.2.2-20140522.034602-5.jar>nexus=
+gantt-0.2.2-SNAPSHOT.jar>=
+gantt-0.2.2-20140522.034602-5-sources.jar>nexus=
+gantt-0.2.2-20140522.034602-5.pom>nexus=
+gantt-0.2.2-SNAPSHOT.pom>=
+gantt-0.2.2-SNAPSHOT-sources.jar>=
