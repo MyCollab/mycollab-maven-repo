@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.zybnet</groupId>
+  <artifactId>vaadin-autocomplete</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140811040834</lastUpdated>
+  </versioning>
+</metadata>
