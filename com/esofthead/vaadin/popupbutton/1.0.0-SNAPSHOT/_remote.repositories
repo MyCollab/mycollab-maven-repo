@@ -1,10 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Jul 30 14:10:22 ICT 2014
-popupbutton-1.0.0-SNAPSHOT.jar>=
-popupbutton-1.0.0-20140314.033646-2-sources.jar>nexus=
-popupbutton-1.0.0-SNAPSHOT-sources.jar>=
-popupbutton-1.0.0-20140313.112742-1.pom>nexus=
-popupbutton-1.0.0-20140313.112742-1-sources.jar>nexus=
+#Tue Aug 26 13:52:37 ICT 2014
 popupbutton-1.0.0-20140314.033646-2.pom>nexus=
-popupbutton-1.0.0-20140313.112742-1.jar>nexus=
 popupbutton-1.0.0-20140314.033646-2.jar>nexus=
