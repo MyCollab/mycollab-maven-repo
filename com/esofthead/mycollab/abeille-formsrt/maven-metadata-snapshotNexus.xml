@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.esofthead.mycollab</groupId>
+  <artifactId>abeille-formsrt</artifactId>
+  <versioning>
+    <versions>
+      <version>11.11-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20141007064205</lastUpdated>
+  </versioning>
+</metadata>

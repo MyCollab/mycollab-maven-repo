@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.esofthead.mycollab</groupId>
+  <artifactId>yajsw-wrapperApp</artifactId>
+  <version>11.11-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20141007.063745</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20141007063745</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>11.11-20141007.063745-1</value>
+        <updated>20141007063745</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>11.11-20141007.063745-1</value>
+        <updated>20141007063745</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
