@@ -1,12 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Sep 17 09:12:11 ICT 2014
-mobilecomponent-1.0.0-SNAPSHOT-sources.jar>=
-mobilecomponent-1.0.0-20140830.013415-21.jar>nexus=
-mobilecomponent-1.0.0-20140830.013415-21-sources.jar>nexus=
-mobilecomponent-1.0.0-20140825.081431-20.pom>nexus=
-mobilecomponent-1.0.0-20140830.013415-21.pom>nexus=
-mobilecomponent-1.0.0-20140916.102248-22.jar>nexus=
+#Thu Oct 09 11:38:31 ICT 2014
 mobilecomponent-1.0.0-SNAPSHOT.jar>=
-mobilecomponent-1.0.0-20140916.102248-22.pom>nexus=
-mobilecomponent-1.0.0-20140825.081431-20-sources.jar>nexus=
-mobilecomponent-1.0.0-20140825.081431-20.jar>nexus=
+mobilecomponent-1.0.0-20141003.080817-25.pom>nexus=
+mobilecomponent-1.0.0-20141003.080817-25.jar>nexus=
