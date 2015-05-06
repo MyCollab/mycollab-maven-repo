@@ -6,6 +6,7 @@
         <ignoreVersion type="regex">.*(alpha|ALPHA).*</ignoreVersion>
         <ignoreVersion type="regex">.*(beta|BETA|Beta).*</ignoreVersion>
         <ignoreVersion type="regex">.*(rc|RC)[\d].*</ignoreVersion>
+        <ignoreVersion type="regex">.*(M)[\d].*</ignoreVersion>
         <ignoreVersion type="regex">.*NO.NO.NO.USE*</ignoreVersion>
     </ignoreVersions>
 </ruleset>
