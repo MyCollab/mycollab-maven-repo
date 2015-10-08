@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Aug 13 10:45:26 ICT 2015
-mybatis-velocity-1.2-SNAPSHOT.pom>=
-mybatis-velocity-1.2-SNAPSHOT.jar>=
+#Thu Nov 20 17:16:51 ICT 2014
+components-1.0.pom>mycollab-repo=
+components-1.0.pom>nexus=
