@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Aug 25 15:01:38 ICT 2016
+http\://jasperreports.sourceforge.net/maven2/.lastUpdated=1472112098087
+http\://dl.bintray.com/scalaz/releases/.lastUpdated=1472112059550
+http\://maven.vaadin.com/vaadin-addons/.error=
+http\://dl.bintray.com/scalaz/releases/.error=
+http\://repo.springsource.org/milestone/.lastUpdated=1472112062421
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1472112092547
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact image4j\:image4j-core\:pom\:0.7.2 from/to central (http\://repo.maven.apache.org/maven2)\: repo.maven.apache.org\: unknown error
+http\://maven.vaadin.com/vaadin-addons/.lastUpdated=1472112056816
+http\://jasperreports.sourceforge.net/maven2/.error=
+https\://raw.githubusercontent.com/MyCollab/mycollab-maven-repo/master/.error=
+https\://raw.githubusercontent.com/MyCollab/mycollab-maven-repo/master/.lastUpdated=1472112053964
+http\://repo.springsource.org/milestone/.error=
